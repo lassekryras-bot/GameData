@@ -1,0 +1,95 @@
+{
+  "available": true,
+  "generated_at": "2026-04-24T20:33:36.474961+00:00",
+  "location": {
+    "latitude": -0.09717287838346575,
+    "longitude": -74.55767451713155,
+    "mean_altitude": 68.91027117299382,
+    "surface_altitude": 1.4304286108817905
+  },
+  "name": "Contract Runner Mk16 High",
+  "orbit": {
+    "apoapsis_altitude": 68.91027117078193,
+    "body": "Kerbin",
+    "eccentricity": 0.9947986144313313,
+    "inclination": 0.001695986654236352,
+    "periapsis_altitude": -598435.3359043314,
+    "time_to_apoapsis": 551.6291564069245,
+    "time_to_periapsis": 275.81457545821274
+  },
+  "parts": [
+    {
+      "decouple_stage": -1,
+      "dry_mass": 800.0000610351562,
+      "mass": 840.0001220703125,
+      "name": "mk1pod.v2",
+      "stage": -1,
+      "title": "Mk1 Command Pod"
+    },
+    {
+      "decouple_stage": -1,
+      "dry_mass": 100.0,
+      "mass": 100.0,
+      "name": "parachuteSingle",
+      "stage": 0,
+      "title": "Mk16 Parachute"
+    },
+    {
+      "decouple_stage": -1,
+      "dry_mass": 450.00006103515625,
+      "mass": 1500.0,
+      "name": "solidBooster.sm.v2",
+      "stage": 1,
+      "title": "RT-5 \"Flea\" Solid Fuel Booster"
+    },
+    {
+      "decouple_stage": -1,
+      "dry_mass": 10.0,
+      "mass": 10.0,
+      "name": "basicFin",
+      "stage": -1,
+      "title": "Basic Fin"
+    },
+    {
+      "decouple_stage": -1,
+      "dry_mass": 10.0,
+      "mass": 10.0,
+      "name": "basicFin",
+      "stage": -1,
+      "title": "Basic Fin"
+    },
+    {
+      "decouple_stage": -1,
+      "dry_mass": 10.0,
+      "mass": 10.0,
+      "name": "basicFin",
+      "stage": -1,
+      "title": "Basic Fin"
+    }
+  ],
+  "resources": [
+    {
+      "amount": 46.49722671508789,
+      "max": 50.0,
+      "name": "ElectricCharge"
+    },
+    {
+      "amount": 10.0,
+      "max": 10.0,
+      "name": "MonoPropellant"
+    },
+    {
+      "amount": 140.0,
+      "max": 140.0,
+      "name": "SolidFuel"
+    }
+  ],
+  "situation": "pre_launch",
+  "stage": 2,
+  "stage_lock": false,
+  "type": "ship",
+  "velocity": {
+    "speed": 5.5360033828794467e-05,
+    "vertical_speed": -5.140685277607329e-05
+  }
+}

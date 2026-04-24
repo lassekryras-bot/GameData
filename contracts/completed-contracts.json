@@ -1,0 +1,33 @@
+{
+  "contracts": [
+    {
+      "description": "One of the founding principles of Kerbin World-Firsts Record-Keeping Society is to continue to advance the frontiers of science. Nobody has set any space records yet! It would probably be best to just start by getting something off the launchpad. Then we can start worrying about things like \"survivability\". But really, there's no sense in us still talking while there's science to be done. Shall we get to it?",
+      "failure": {
+        "funds_failure": 1120.0,
+        "reputation_failure": 0.0
+      },
+      "notes": "",
+      "parameters": [
+        {
+          "children": [],
+          "completed": false,
+          "failed": false,
+          "notes": "Launch your first vessel off of the launchpad or the runway to achieve this goal.",
+          "optional": false,
+          "title": "Achieve goal"
+        }
+      ],
+      "rewards": {
+        "funds_advance": 1120.0,
+        "funds_completion": 2080.0,
+        "reputation_completion": 1.0,
+        "science_completion": 1.0
+      },
+      "state": "active",
+      "synopsis": "We'd like to officially start off the space program with a bang! A very controlled bang, preferably.",
+      "title": "Launch our first vessel!"
+    }
+  ],
+  "generated_at": "2026-04-24T20:33:36.215353+00:00",
+  "source": "completed_contracts"
+}

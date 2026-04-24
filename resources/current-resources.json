@@ -1,0 +1,25 @@
+{
+  "active_vessel": {
+    "name": "Contract Runner Mk16 High",
+    "situation": "pre_launch",
+    "type": "ship"
+  },
+  "generated_at": "2026-04-24T20:33:36.641704+00:00",
+  "resources": [
+    {
+      "amount": 46.49722671508789,
+      "max": 50.0,
+      "name": "ElectricCharge"
+    },
+    {
+      "amount": 10.0,
+      "max": 10.0,
+      "name": "MonoPropellant"
+    },
+    {
+      "amount": 140.0,
+      "max": 140.0,
+      "name": "SolidFuel"
+    }
+  ]
+}

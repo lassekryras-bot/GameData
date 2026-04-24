@@ -1,0 +1,333 @@
+{
+  "contracts": [
+    {
+      "description": "At Research & Development Department, we're not afraid to try new things. As a result, we sometimes find ourselves in the situation of needing outside help to solve a problem. We don't know too many interesting things about Kerbin, and would like to take a look around. This is why we're here.",
+      "failure": {
+        "funds_failure": 7500.0,
+        "reputation_failure": 2.0
+      },
+      "notes": "",
+      "parameters": [
+        {
+          "children": [],
+          "completed": false,
+          "failed": false,
+          "notes": null,
+          "optional": false,
+          "title": "Take a crew report in flight below 19,300 meters near Ayarza's Secret"
+        }
+      ],
+      "rewards": {
+        "funds_advance": 7500.0,
+        "funds_completion": 13250.0,
+        "reputation_completion": 2.0,
+        "science_completion": 0.0
+      },
+      "state": "offered",
+      "synopsis": "We need to test our newly acquired capabilities with a focused survey of Kerbin. Go to the designated test site and gather some observational reports.",
+      "title": "Conduct a focused observational survey of Kerbin."
+    },
+    {
+      "description": "The board of directors at StrutCo have raised some troubling issues. Some Kerbals say that every place on Kerbin looks exactly the same. We disagree, but need someome else to prove them wrong. Now we need your help.",
+      "failure": {
+        "funds_failure": 7874.999642372131,
+        "reputation_failure": 2.0
+      },
+      "notes": "",
+      "parameters": [
+        {
+          "children": [],
+          "completed": false,
+          "failed": false,
+          "notes": null,
+          "optional": false,
+          "title": "Take a crew report in flight below 19,300 meters near Genegar's Dawn"
+        }
+      ],
+      "rewards": {
+        "funds_advance": 7500.0,
+        "funds_completion": 13912.499368190765,
+        "reputation_completion": 1.9047620296478271,
+        "science_completion": 0.0
+      },
+      "state": "offered",
+      "synopsis": "We need to test our newly acquired capabilities with a focused survey of Kerbin. Go to the designated test site and gather some observational reports.",
+      "title": "Conduct a focused observational survey of Kerbin."
+    },
+    {
+      "description": "At Kerbin World-Firsts Record-Keeping Society, we need brave Kerbals with the right stuff to help achieve our dreams. We still have unchecked items on our list of records to break and would like to change that. But really, there's no sense in us still talking while there's science to be done. Shall we get to it?",
+      "failure": {
+        "funds_failure": 2240.0,
+        "reputation_failure": 0.0
+      },
+      "notes": "",
+      "parameters": [
+        {
+          "children": [],
+          "completed": false,
+          "failed": false,
+          "notes": "Recover or transmit any science experiment data from Kerbin to achieve this goal.",
+          "optional": false,
+          "title": "Achieve goal"
+        }
+      ],
+      "rewards": {
+        "funds_advance": 2240.0,
+        "funds_completion": 4160.0,
+        "reputation_completion": 2.0,
+        "science_completion": 1.0
+      },
+      "state": "offered",
+      "synopsis": "Give us a quick crew report before launching. It's fine if any of the lights on the control panel are flashing, just give it a swift kick.",
+      "title": "Gather scientific data from Kerbin."
+    },
+    {
+      "description": "We've been reviewing our product catalog at Jebediah Kerman's Junkyard and Spacecraft Parts Co and have found an oversight. There is very little knowledge about how the LV-T45 \"Swivel\" Liquid Fuel Engine performs under conditions not found in a standard laboratory. Now we need your help.",
+      "failure": {
+        "funds_failure": 5669.999742507935,
+        "reputation_failure": 2.941176414489746
+      },
+      "notes": "",
+      "parameters": [
+        {
+          "children": [
+            {
+              "children": [],
+              "completed": false,
+              "failed": false,
+              "notes": null,
+              "optional": false,
+              "title": "Kerbin"
+            },
+            {
+              "children": [],
+              "completed": false,
+              "failed": false,
+              "notes": null,
+              "optional": false,
+              "title": "Splashed down"
+            }
+          ],
+          "completed": false,
+          "failed": false,
+          "notes": "To perform the test, activate the part through the staging sequence when all test conditions are met.",
+          "optional": false,
+          "title": "Test LV-T45 \"Swivel\" Liquid Fuel Engine"
+        }
+      ],
+      "rewards": {
+        "funds_advance": 4999.999916553497,
+        "funds_completion": 13124.999184906492,
+        "reputation_completion": 4.275630950927734,
+        "science_completion": 2.0
+      },
+      "state": "offered",
+      "synopsis": "We want you to test the LV-T45 \"Swivel\" Liquid Fuel Engine splashed down at Kerbin.",
+      "title": "Test LV-T45 \"Swivel\" Liquid Fuel Engine splashed down at Kerbin."
+    },
+    {
+      "description": "While cleaning up after an unintended ignition, one of the overworked teams at Research & Development Department raised an interesting question. We don't actually know how to attach a RT-10 \"Hammer\" Solid Fuel Booster to other parts. From the bottom? The top? Is there even a way to tell which side is up? So this is where you come in.",
+      "failure": {
+        "funds_failure": 11250.0,
+        "reputation_failure": 5.0
+      },
+      "notes": "",
+      "parameters": [
+        {
+          "children": [
+            {
+              "children": [],
+              "completed": false,
+              "failed": false,
+              "notes": null,
+              "optional": false,
+              "title": "Kerbin"
+            },
+            {
+              "children": [],
+              "completed": false,
+              "failed": false,
+              "notes": null,
+              "optional": false,
+              "title": "Flying"
+            },
+            {
+              "children": [],
+              "completed": false,
+              "failed": false,
+              "notes": null,
+              "optional": false,
+              "title": "Alt: 45,000m to 48,000m"
+            },
+            {
+              "children": [],
+              "completed": false,
+              "failed": false,
+              "notes": null,
+              "optional": false,
+              "title": "Spd: 460.0m/s to 550.0m/s"
+            }
+          ],
+          "completed": false,
+          "failed": false,
+          "notes": "To perform the test, activate the part through the staging sequence when all test conditions are met.",
+          "optional": false,
+          "title": "Test RT-10 \"Hammer\" Solid Fuel Booster"
+        }
+      ],
+      "rewards": {
+        "funds_advance": 11250.0,
+        "funds_completion": 28125.0,
+        "reputation_completion": 8.0,
+        "science_completion": 4.0
+      },
+      "state": "offered",
+      "synopsis": "We want you to test the RT-10 \"Hammer\" Solid Fuel Booster in flight over Kerbin.",
+      "title": "Test RT-10 \"Hammer\" Solid Fuel Booster in flight over Kerbin."
+    },
+    {
+      "description": "While hitting parts with a wrench, the engineers at Research & Development Department realized we had a problem. We have way too many parts like the RT-5 \"Flea\" Solid Fuel Booster, and nobody's sure how they work. We believe that you are much better positioned to deal with this than us.",
+      "failure": {
+        "funds_failure": 1800.0,
+        "reputation_failure": 1.0
+      },
+      "notes": "",
+      "parameters": [
+        {
+          "children": [
+            {
+              "children": [],
+              "completed": false,
+              "failed": false,
+              "notes": null,
+              "optional": false,
+              "title": "Kerbin"
+            },
+            {
+              "children": [],
+              "completed": true,
+              "failed": false,
+              "notes": null,
+              "optional": false,
+              "title": "Launch Site"
+            }
+          ],
+          "completed": false,
+          "failed": false,
+          "notes": "To perform the test, activate the part through the staging sequence when all test conditions are met.",
+          "optional": false,
+          "title": "Test RT-5 \"Flea\" Solid Fuel Booster"
+        }
+      ],
+      "rewards": {
+        "funds_advance": 1800.0,
+        "funds_completion": 4500.0,
+        "reputation_completion": 1.0,
+        "science_completion": 1.0
+      },
+      "state": "active",
+      "synopsis": "We want you to test the RT-5 \"Flea\" Solid Fuel Booster at the Launch Site.",
+      "title": "Test RT-5 \"Flea\" Solid Fuel Booster at the Launch Site."
+    },
+    {
+      "description": "We've been reviewing our product catalog at O.M.B. Demolition Enterprises and have found an oversight. We have way too many parts like the TD-12 Decoupler, and nobody's sure how they work. It would really help us out if you're able to run a test.",
+      "failure": {
+        "funds_failure": 1889.9999141693115,
+        "reputation_failure": 1.0
+      },
+      "notes": "",
+      "parameters": [
+        {
+          "children": [
+            {
+              "children": [],
+              "completed": false,
+              "failed": false,
+              "notes": null,
+              "optional": false,
+              "title": "Kerbin"
+            },
+            {
+              "children": [],
+              "completed": false,
+              "failed": false,
+              "notes": null,
+              "optional": false,
+              "title": "Launch Site"
+            }
+          ],
+          "completed": false,
+          "failed": false,
+          "notes": "To perform the test, activate the part through the staging sequence when all test conditions are met.",
+          "optional": false,
+          "title": "Test TD-12 Decoupler"
+        }
+      ],
+      "rewards": {
+        "funds_advance": 1800.0,
+        "funds_completion": 4724.999785423279,
+        "reputation_completion": 0.9523810148239136,
+        "science_completion": 1.0
+      },
+      "state": "offered",
+      "synopsis": "We want you to test the TD-12 Decoupler at the Launch Site.",
+      "title": "Test TD-12 Decoupler at the Launch Site."
+    },
+    {
+      "description": "At Kerbin World-Firsts Record-Keeping Society, we need brave Kerbals with the right stuff to help achieve our dreams. We still have unchecked items on our list of records to break and would like to change that. But really, there's no sense in us still talking while there's science to be done. Shall we get to it?",
+      "failure": {
+        "funds_failure": 11200.0,
+        "reputation_failure": 0.0
+      },
+      "notes": "",
+      "parameters": [
+        {
+          "children": [],
+          "completed": false,
+          "failed": false,
+          "notes": "Breach the atmosphere by flying a vessel to an altitude of 70,000 meters to achieve this goal.",
+          "optional": false,
+          "title": "Achieve goal"
+        }
+      ],
+      "rewards": {
+        "funds_advance": 11200.0,
+        "funds_completion": 20800.0,
+        "reputation_completion": 8.0,
+        "science_completion": 4.0
+      },
+      "state": "offered",
+      "synopsis": "Administration says that legally we cannot call ourselves a space program without actually going to space.",
+      "title": "Escape the atmosphere!"
+    },
+    {
+      "description": "One of the founding principles of Kerbin World-Firsts Record-Keeping Society is to continue to advance the frontiers of science. To get to orbit, we think all we need is for a Kerbal with terrible aim to shoot for the ground and miss. It's time for you to take another step in advancing the frontier.",
+      "failure": {
+        "funds_failure": 16800.0,
+        "reputation_failure": 0.0
+      },
+      "notes": "",
+      "parameters": [
+        {
+          "children": [],
+          "completed": false,
+          "failed": false,
+          "notes": "Fly a vessel up and out of the atmosphere and accelerate parallel with the surface until you are in a stable orbit to achieve this goal.",
+          "optional": false,
+          "title": "Achieve goal"
+        }
+      ],
+      "rewards": {
+        "funds_advance": 16800.0,
+        "funds_completion": 31200.0,
+        "reputation_completion": 10.0,
+        "science_completion": 6.0
+      },
+      "state": "offered",
+      "synopsis": "We need to achieve a stable orbit around Kerbin. All you should need to do is throw yourself at the ground and miss.",
+      "title": "Orbit Kerbin!"
+    }
+  ],
+  "generated_at": "2026-04-24T20:33:36.241828+00:00",
+  "source": "offered_contracts"
+}

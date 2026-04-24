@@ -1,0 +1,15 @@
+{
+  "active_vessel": {
+    "name": "Contract Runner Mk16 High",
+    "situation": "pre_launch",
+    "type": "ship"
+  },
+  "funds": 95800.88013267517,
+  "game_scene": "flight",
+  "generated_at": "2026-04-24T20:33:35.866900+00:00",
+  "reputation": 11.999993324279785,
+  "save_name": "default",
+  "science": 12.833333969116211,
+  "source": "kRPC",
+  "universal_time": 3880.659160153018
+}

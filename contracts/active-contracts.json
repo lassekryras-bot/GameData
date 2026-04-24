@@ -1,0 +1,66 @@
+{
+  "contracts": [
+    {
+      "description": "The board of directors at Research & Development Department have raised some troubling issues. We have way too many parts like the Mk16 Parachute, and nobody's sure how they work. Now we need your help.",
+      "failure": {
+        "funds_failure": 9000.0,
+        "reputation_failure": 4.0
+      },
+      "notes": "",
+      "parameters": [
+        {
+          "children": [
+            {
+              "children": [],
+              "completed": false,
+              "failed": false,
+              "notes": null,
+              "optional": false,
+              "title": "Kerbin"
+            },
+            {
+              "children": [],
+              "completed": false,
+              "failed": false,
+              "notes": null,
+              "optional": false,
+              "title": "Flying"
+            },
+            {
+              "children": [],
+              "completed": false,
+              "failed": false,
+              "notes": null,
+              "optional": false,
+              "title": "Alt: 3,000m to 11,000m"
+            },
+            {
+              "children": [],
+              "completed": false,
+              "failed": false,
+              "notes": null,
+              "optional": false,
+              "title": "Spd: 50.0m/s to 200.0m/s"
+            }
+          ],
+          "completed": false,
+          "failed": false,
+          "notes": "To perform the test, activate the part through the staging sequence when all test conditions are met.",
+          "optional": false,
+          "title": "Test Mk16 Parachute"
+        }
+      ],
+      "rewards": {
+        "funds_advance": 9000.0,
+        "funds_completion": 22500.0,
+        "reputation_completion": 6.0,
+        "science_completion": 3.0
+      },
+      "state": "offered",
+      "synopsis": "We want you to test the Mk16 Parachute in flight over Kerbin.",
+      "title": "Test Mk16 Parachute in flight over Kerbin."
+    }
+  ],
+  "generated_at": "2026-04-24T20:33:36.037418+00:00",
+  "source": "active_contracts"
+}
