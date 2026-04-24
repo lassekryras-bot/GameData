@@ -1,21 +1,21 @@
 {
   "available": true,
-  "generated_at": "2026-04-24T20:42:11.477464+00:00",
+  "generated_at": "2026-04-24T21:03:14.058109+00:00",
   "location": {
-    "latitude": -0.09717287838346575,
-    "longitude": -74.55767451713155,
-    "mean_altitude": 68.91027117299382,
-    "surface_altitude": 1.4304286108817905
+    "latitude": -0.09717287837778428,
+    "longitude": -74.5576745171303,
+    "mean_altitude": 68.91027111303993,
+    "surface_altitude": 1.4304285509278998
   },
   "name": "Contract Runner Mk16 High",
   "orbit": {
-    "apoapsis_altitude": 68.91027117078193,
+    "apoapsis_altitude": 68.91027109522838,
     "body": "Kerbin",
-    "eccentricity": 0.9947986144313131,
-    "inclination": 0.0016959866542249704,
-    "periapsis_altitude": -598435.3359357115,
-    "time_to_apoapsis": 551.629156406932,
-    "time_to_periapsis": 275.81457545821655
+    "eccentricity": 0.9947986145253211,
+    "inclination": 0.0016959866534231073,
+    "periapsis_altitude": -598435.3359326785,
+    "time_to_apoapsis": 551.6291578082405,
+    "time_to_periapsis": 275.8145768789224
   },
   "parts": [
     {
@@ -89,7 +89,7 @@
   "stage_lock": false,
   "type": "ship",
   "velocity": {
-    "speed": 5.536006545230232e-05,
-    "vertical_speed": -5.140685275276225e-05
+    "speed": 4.3752984792667414e-05,
+    "vertical_speed": -3.951862325841983e-05
   }
 }
