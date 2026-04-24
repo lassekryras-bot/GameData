@@ -1,4 +1,14 @@
 {
-  "generated_at": "2026-04-24T20:33:36.416992+00:00",
-  "unlocked_parts": []
+  "generated_at": "2026-04-24T20:34:07.762980+00:00",
+  "unlocked_parts": [
+    "GooExperiment",
+    "basicFin",
+    "evaChute",
+    "evaJetpack",
+    "kv1Pod",
+    "mk1pod.v2",
+    "parachuteSingle",
+    "solidBooster.sm.v2",
+    "trussPiece1x"
+  ]
 }

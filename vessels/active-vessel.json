@@ -1,6 +1,6 @@
 {
   "available": true,
-  "generated_at": "2026-04-24T20:33:36.474961+00:00",
+  "generated_at": "2026-04-24T20:34:07.802202+00:00",
   "location": {
     "latitude": -0.09717287838346575,
     "longitude": -74.55767451713155,
@@ -11,11 +11,11 @@
   "orbit": {
     "apoapsis_altitude": 68.91027117078193,
     "body": "Kerbin",
-    "eccentricity": 0.9947986144313313,
-    "inclination": 0.001695986654236352,
-    "periapsis_altitude": -598435.3359043314,
-    "time_to_apoapsis": 551.6291564069245,
-    "time_to_periapsis": 275.81457545821274
+    "eccentricity": 0.9947986145354082,
+    "inclination": 0.0016959866542240883,
+    "periapsis_altitude": -598435.3359357206,
+    "time_to_apoapsis": 551.6291565847762,
+    "time_to_periapsis": 275.81457565749815
   },
   "parts": [
     {
@@ -89,7 +89,7 @@
   "stage_lock": false,
   "type": "ship",
   "velocity": {
-    "speed": 5.5360033828794467e-05,
-    "vertical_speed": -5.140685277607329e-05
+    "speed": 5.536746751605076e-05,
+    "vertical_speed": -5.141583678409924e-05
   }
 }
