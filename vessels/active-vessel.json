@@ -1,21 +1,21 @@
 {
   "available": true,
-  "generated_at": "2026-04-24T21:03:14.058109+00:00",
+  "generated_at": "2026-04-24T23:00:31.117384+00:00",
   "location": {
-    "latitude": -0.09717287837778428,
-    "longitude": -74.5576745171303,
-    "mean_altitude": 68.91027111303993,
-    "surface_altitude": 1.4304285509278998
+    "latitude": -0.09720776785440961,
+    "longitude": -74.55768321332016,
+    "mean_altitude": 69.50773177703377,
+    "surface_altitude": 2.0279558232286945
   },
   "name": "Contract Runner Mk16 High",
   "orbit": {
-    "apoapsis_altitude": 68.91027109522838,
+    "apoapsis_altitude": 69.50773176236544,
     "body": "Kerbin",
-    "eccentricity": 0.9947986145253211,
-    "inclination": 0.0016959866534231073,
-    "periapsis_altitude": -598435.3359326785,
-    "time_to_apoapsis": 551.6291578082405,
-    "time_to_periapsis": 275.8145768789224
+    "eccentricity": 0.994798598918214,
+    "inclination": 0.0016965955882334426,
+    "periapsis_altitude": -598435.329667689,
+    "time_to_apoapsis": 551.6299904022112,
+    "time_to_periapsis": 275.81499431226746
   },
   "parts": [
     {
@@ -36,11 +36,27 @@
     },
     {
       "decouple_stage": -1,
-      "dry_mass": 450.00006103515625,
+      "dry_mass": 62.5,
+      "mass": 562.5,
+      "name": "fuelTankSmallFlat",
+      "stage": -1,
+      "title": "FL-T100 Fuel Tank"
+    },
+    {
+      "decouple_stage": -1,
+      "dry_mass": 1500.0,
       "mass": 1500.0,
-      "name": "solidBooster.sm.v2",
+      "name": "liquidEngine2.v2",
       "stage": 1,
-      "title": "RT-5 \"Flea\" Solid Fuel Booster"
+      "title": "LV-T45 \"Swivel\" Liquid Fuel Engine"
+    },
+    {
+      "decouple_stage": -1,
+      "dry_mass": 10.0,
+      "mass": 10.0,
+      "name": "basicFin",
+      "stage": -1,
+      "title": "Basic Fin"
     },
     {
       "decouple_stage": -1,
@@ -69,9 +85,14 @@
   ],
   "resources": [
     {
-      "amount": 46.49722671508789,
+      "amount": 50.0,
       "max": 50.0,
       "name": "ElectricCharge"
+    },
+    {
+      "amount": 45.0,
+      "max": 45.0,
+      "name": "LiquidFuel"
     },
     {
       "amount": 10.0,
@@ -79,9 +100,9 @@
       "name": "MonoPropellant"
     },
     {
-      "amount": 140.0,
-      "max": 140.0,
-      "name": "SolidFuel"
+      "amount": 55.0,
+      "max": 55.0,
+      "name": "Oxidizer"
     }
   ],
   "situation": "pre_launch",
@@ -89,7 +110,7 @@
   "stage_lock": false,
   "type": "ship",
   "velocity": {
-    "speed": 4.3752984792667414e-05,
-    "vertical_speed": -3.951862325841983e-05
+    "speed": 2.32734652980258e-05,
+    "vertical_speed": -1.734427689040658e-05
   }
 }
