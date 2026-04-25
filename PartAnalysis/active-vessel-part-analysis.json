@@ -36,7 +36,7 @@
       "thrust_limit": 1.0
     }
   ],
-  "generated_at": "2026-04-25T18:09:46.493080+00:00",
+  "generated_at": "2026-04-25T19:51:42.682058+00:00",
   "measurement": {
     "baseline_valid": true,
     "preferred_situation": "pre_launch",
@@ -45,7 +45,7 @@
     "stabilization_seconds": 1.0,
     "warnings": []
   },
-  "measurement_id": "part-analysis-b6b7a938ed1e4e16aca103fe76743141",
+  "measurement_id": "part-analysis-8424a1e849994a6e823b9a4d834f7bac",
   "notes": [
     "This is an active-vessel measurement, not editor craft inspection.",
     "SRB thrust limiter changes must be live-tested before use."
@@ -159,7 +159,7 @@
       "name": "SolidFuel"
     }
   ],
-  "run_id": "run-20260425T180945492651Z-89e2a9d7",
+  "run_id": "run-20260425T195142496060Z-6ee59d3b",
   "scene": "flight",
   "vessel": {
     "dry_mass": 1380.0001220703125,
