@@ -18,11 +18,11 @@
   "engines": [
     {
       "active": false,
-      "available_thrust": 163220.671875,
+      "available_thrust": 163220.4375,
       "can_restart": false,
       "can_shutdown": false,
       "has_fuel": true,
-      "max_thrust": 163220.671875,
+      "max_thrust": 163220.4375,
       "max_vacuum_thrust": 192000.0,
       "part_key": "solidBooster.sm.v2",
       "part_name": "solidBooster.sm.v2",
@@ -36,7 +36,7 @@
       "thrust_limit": 1.0
     }
   ],
-  "generated_at": "2026-04-25T20:16:01.407216+00:00",
+  "generated_at": "2026-04-25T21:47:34.092369+00:00",
   "measurement": {
     "baseline_valid": true,
     "preferred_situation": "pre_launch",
@@ -45,7 +45,7 @@
     "stabilization_seconds": 1.0,
     "warnings": []
   },
-  "measurement_id": "part-analysis-86f7a1e9f0de47dfa26bfad227ea9c28",
+  "measurement_id": "part-analysis-496b7b5dca494aa28b6d8eb80e8f8e7c",
   "notes": [
     "This is an active-vessel measurement, not editor craft inspection.",
     "SRB thrust limiter changes must be live-tested before use."
@@ -89,13 +89,13 @@
     {
       "decouple_stage": -1,
       "dry_mass": 450.0,
-      "mass": 712.5,
+      "mass": 765.0,
       "name": "solidBooster.sm.v2",
       "part_key": "solidBooster.sm.v2",
       "resources": [
         {
-          "amount": 35.0,
-          "fuel_percent": 25.0,
+          "amount": 42.0,
+          "fuel_percent": 30.0,
           "max": 140.0,
           "name": "SolidFuel"
         }
@@ -153,18 +153,18 @@
       "name": "MonoPropellant"
     },
     {
-      "amount": 35.0,
-      "fuel_percent": 25.0,
+      "amount": 42.0,
+      "fuel_percent": 30.0,
       "max": 140.0,
       "name": "SolidFuel"
     }
   ],
-  "run_id": "run-20260425T201601297857Z-90f8924c",
+  "run_id": "run-20260425T214734005771Z-edcdf7c4",
   "scene": "flight",
   "vessel": {
     "dry_mass": 1380.0,
-    "mass": 1682.5001220703125,
-    "name": "Contract Runner Mk16 High analysis fuel 25 thrust 100",
+    "mass": 1735.0001220703125,
+    "name": "Contract Runner Mk16 High target 3468 fuel 30 thrust 100",
     "situation": "pre_launch",
     "stage": 2,
     "stage_lock": false
