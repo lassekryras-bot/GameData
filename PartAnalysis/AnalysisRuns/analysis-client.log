@@ -225,3 +225,11 @@ UnboundLocalError: local variable 'message' referenced before assignment
 [00:20:40] Waiting for PartAnalysis stabilization: 1 s.
 [00:20:42] Verifying Flight/pre_launch state.
 [00:20:42] Running analysis.
+[00:20:45] Extracting point.
+[00:20:45] Analysis wrote 3 file(s).
+[00:20:45] Analysis complete.
+[00:20:45] Recovering vessel.
+[00:20:45] Waiting after recovery before next variant: 2 s.
+[00:20:48] Completed: Contract Runner Mk16 High target 3468 fuel 30 thrust 100 analysis fuel 25 thrust 100
+[00:20:48] Deleting generated craft file: Contract Runner Mk16 High target 3468 fuel 30 thrust 100 analysis fuel 25 thrust 100.craft
+[00:20:48] Batch summary written: C:\Users\Lasse\ksp\GameData\PartAnalysis\AnalysisRuns\batch-20260425T221850073441Z-aa635460.json
