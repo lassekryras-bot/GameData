@@ -81,3 +81,29 @@ UnboundLocalError: local variable 'message' referenced before assignment
 [22:03:09] Recovering vessel.
 [22:03:10] Completed: Contract Runner Mk16 High analysis fuel 25 thrust 100
 [22:03:10] Batch summary written: C:\Users\Lasse\ksp\GameData\PartAnalysis\AnalysisRuns\batch-20260425T200158507411Z-6e0f2c96.json
+[22:03:12] Git: Committed and pushed to origin/main.
+[22:03:12] Batch Variant Analysis complete: 4 completed, 0 failed.
+[22:14:50] Generated 4 fuel variant specs for Contract Runner Mk16 High.
+[22:14:50]   Contract Runner Mk16 High analysis fuel 100 thrust 100: fuel=100%, thrust=100%
+[22:14:50]   Contract Runner Mk16 High analysis fuel 75 thrust 100: fuel=75%, thrust=100%
+[22:14:50]   Contract Runner Mk16 High analysis fuel 50 thrust 100: fuel=50%, thrust=100%
+[22:14:50]   Contract Runner Mk16 High analysis fuel 25 thrust 100: fuel=25%, thrust=100%
+[22:14:52] Batch setup check: Contract Runner Mk16 High
+[22:14:52]   Source path: C:\Program Files (x86)\Steam\steamapps\common\Kerbal Space Program\saves\default\Ships\VAB\Contract Runner Mk16 High.craft
+[22:14:52]   Source exists: True
+[22:14:52]   solidBooster.sm.v2 count: 1
+[22:14:52]   SolidFuel resources: 1
+[22:14:52]   SolidFuel amount/capacity: 140.0 / 140.0
+[22:14:52] Batch setup check: READY
+[22:14:52]   Planned: Contract Runner Mk16 High analysis fuel 100 thrust 100 fuel=100% thrust=100%
+[22:14:52]   Planned: Contract Runner Mk16 High analysis fuel 75 thrust 100 fuel=75% thrust=100%
+[22:14:52]   Planned: Contract Runner Mk16 High analysis fuel 50 thrust 100 fuel=50% thrust=100%
+[22:14:52]   Planned: Contract Runner Mk16 High analysis fuel 25 thrust 100 fuel=25% thrust=100%
+[22:14:54] Batch Variant Analysis start: Contract Runner Mk16 High
+[22:14:54] Creating generated craft: Contract Runner Mk16 High analysis fuel 100 thrust 100
+[22:14:54] Loading to launchpad: Contract Runner Mk16 High analysis fuel 100 thrust 100
+[22:15:03] Loaded variant.
+[22:15:03] Waiting for KSP stabilization after load: 1 s.
+[22:15:04] Waiting for PartAnalysis stabilization: 1 s.
+[22:15:05] Verifying Flight/pre_launch state.
+[22:15:05] Running analysis.
