@@ -36,7 +36,7 @@
       "thrust_limit": 1.0
     }
   ],
-  "generated_at": "2026-04-25T20:15:43.390885+00:00",
+  "generated_at": "2026-04-25T20:16:01.407216+00:00",
   "measurement": {
     "baseline_valid": true,
     "preferred_situation": "pre_launch",
@@ -45,7 +45,7 @@
     "stabilization_seconds": 1.0,
     "warnings": []
   },
-  "measurement_id": "part-analysis-d8c9bee454df47a1b26ba3c11ace657e",
+  "measurement_id": "part-analysis-86f7a1e9f0de47dfa26bfad227ea9c28",
   "notes": [
     "This is an active-vessel measurement, not editor craft inspection.",
     "SRB thrust limiter changes must be live-tested before use."
@@ -89,13 +89,13 @@
     {
       "decouple_stage": -1,
       "dry_mass": 450.0,
-      "mass": 974.9999389648438,
+      "mass": 712.5,
       "name": "solidBooster.sm.v2",
       "part_key": "solidBooster.sm.v2",
       "resources": [
         {
-          "amount": 70.0,
-          "fuel_percent": 50.0,
+          "amount": 35.0,
+          "fuel_percent": 25.0,
           "max": 140.0,
           "name": "SolidFuel"
         }
@@ -153,18 +153,18 @@
       "name": "MonoPropellant"
     },
     {
-      "amount": 70.0,
-      "fuel_percent": 50.0,
+      "amount": 35.0,
+      "fuel_percent": 25.0,
       "max": 140.0,
       "name": "SolidFuel"
     }
   ],
-  "run_id": "run-20260425T201543313065Z-874c63b8",
+  "run_id": "run-20260425T201601297857Z-90f8924c",
   "scene": "flight",
   "vessel": {
     "dry_mass": 1380.0,
-    "mass": 1945.0,
-    "name": "Contract Runner Mk16 High analysis fuel 50 thrust 100",
+    "mass": 1682.5001220703125,
+    "name": "Contract Runner Mk16 High analysis fuel 25 thrust 100",
     "situation": "pre_launch",
     "stage": 2,
     "stage_lock": false
