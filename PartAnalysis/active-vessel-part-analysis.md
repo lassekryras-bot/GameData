@@ -1,10 +1,10 @@
 # Active Vessel Part Analysis
 
-Generated: 2026-04-25T22:20:05.918987+00:00
+Generated: 2026-04-25T22:20:24.318832+00:00
 
-Run ID: run-20260425T222005849878Z-f8279b7f
+Run ID: run-20260425T222024252131Z-d4c7a5d0
 
-Measurement ID: part-analysis-6c9a9ea2dfee4e68a5af57acbfbe2a70
+Measurement ID: part-analysis-2dc1278896044b4c9e64d41685f79834
 
 Scene: flight
 
@@ -12,11 +12,11 @@ Stabilization delay: 1.0 s
 
 Baseline valid: True
 
-Vessel: Contract Runner Mk16 High target 3468 fuel 30 thrust 100 analysis fuel 75 thrust 100
+Vessel: Contract Runner Mk16 High target 3468 fuel 30 thrust 100 analysis fuel 50 thrust 100
 
 Situation: pre_launch
 
-Mass: 2207.5 kg
+Mass: 1945.0 kg
 
 Dry mass: 1380.0 kg
 
@@ -24,7 +24,7 @@ Dry mass: 1380.0 kg
 
 - ElectricCharge: 50.0 / 50.0
 - MonoPropellant: 10.0 / 10.0
-- SolidFuel: 105.0 / 140.0
+- SolidFuel: 70.0 / 140.0
 
 ## Engines
 

@@ -197,3 +197,17 @@ UnboundLocalError: local variable 'message' referenced before assignment
 [00:20:03] Waiting for PartAnalysis stabilization: 1 s.
 [00:20:04] Verifying Flight/pre_launch state.
 [00:20:04] Running analysis.
+[00:20:08] Extracting point.
+[00:20:08] Analysis wrote 3 file(s).
+[00:20:08] Analysis complete.
+[00:20:08] Recovering vessel.
+[00:20:08] Waiting after recovery before next variant: 2 s.
+[00:20:10] Completed: Contract Runner Mk16 High target 3468 fuel 30 thrust 100 analysis fuel 75 thrust 100
+[00:20:10] Deleting generated craft file: Contract Runner Mk16 High target 3468 fuel 30 thrust 100 analysis fuel 75 thrust 100.craft
+[00:20:10] Creating generated craft: Contract Runner Mk16 High target 3468 fuel 30 thrust 100 analysis fuel 50 thrust 100
+[00:20:10] Loading to launchpad: Contract Runner Mk16 High target 3468 fuel 30 thrust 100 analysis fuel 50 thrust 100
+[00:20:21] Loaded variant.
+[00:20:21] Waiting for KSP stabilization after load: 1 s.
+[00:20:22] Waiting for PartAnalysis stabilization: 1 s.
+[00:20:23] Verifying Flight/pre_launch state.
+[00:20:23] Running analysis.
