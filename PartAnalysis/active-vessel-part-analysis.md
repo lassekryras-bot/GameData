@@ -1,39 +1,16 @@
 # Active Vessel Part Analysis
 
-Generated: 2026-04-25T19:51:42.682058+00:00
+Generated: 2026-04-25T19:58:36.549163+00:00
 
-Run ID: run-20260425T195142496060Z-6ee59d3b
+Run ID: run-20260425T195836493041Z-cc654cf5
 
-Measurement ID: part-analysis-8424a1e849994a6e823b9a4d834f7bac
+Measurement ID: part-analysis-013012eb0ddc41cbbe8b39792161c6ca
 
-Scene: flight
+Scene: space_center
+
+Status: No active vessel available from kRPC. Launch/load a craft to the pad first.
 
 Stabilization delay: 1.0 s
 
-Baseline valid: True
-
-Vessel: Contract Runner Mk16 High
-
-Situation: pre_launch
-
-Mass: 2470.0 kg
-
-Dry mass: 1380.0001220703125 kg
-
-## Resources
-
-- ElectricCharge: 50.0 / 50.0
-- MonoPropellant: 10.0 / 10.0
-- SolidFuel: 140.0 / 140.0
-
-## Engines
-
-- RT-5 "Flea" Solid Fuel Booster: propellants=SolidFuel, has_fuel=True, throttle_locked=True, thrust_limit=1.0, available_thrust=163220.328125
-
-## Active Parts Not In Unlocked Inventory
-
+Warnings:
 - None
-
-## Recommendation
-
-Use this as launchpad pre-flight measurement only. Do not treat locked/unlisted active-vessel parts as available for new construction.
