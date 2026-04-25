@@ -103,6 +103,39 @@
       "available_thrust": 163220.453125,
       "baseline_valid": true,
       "engine_type": "solid_booster",
+      "fuel_amount": 50.540000915527344,
+      "fuel_capacity": 140.0,
+      "fuel_mass": 379.0499572753906,
+      "fuel_percent": 36.1000006539481,
+      "fuel_resource_name": "SolidFuel",
+      "max_thrust": 163220.453125,
+      "max_vacuum_thrust": 192000.0,
+      "measurement_id": "part-analysis-19dd99ba4967434288110f8be46a93f8",
+      "measurement_source": "live_kRPC_active_vessel",
+      "model": {
+        "estimated_burn_time": 3.188383728438196,
+        "fuel_mass_fraction": 0.4572100822246499,
+        "gravity": 9.80665,
+        "initial_acceleration": 80.91926017204854,
+        "thrust_to_weight_ratio": 9.251468153961703
+      },
+      "part_dry_mass": 449.9999084472656,
+      "part_key": "solidBooster.sm.v2",
+      "part_mass": 829.0498657226562,
+      "part_name": "solidBooster.sm.v2",
+      "part_title": "RT-5 \"Flea\" Solid Fuel Booster",
+      "recorded_at": "2026-04-25T23:06:08.466459+00:00",
+      "run_id": "run-20260425T230608363177Z-a169a179",
+      "stage": 1,
+      "throttle_locked": true,
+      "thrust_limit": 1.0,
+      "vessel_dry_mass": 1380.0,
+      "vessel_mass": 1799.050048828125
+    },
+    {
+      "available_thrust": 163220.453125,
+      "baseline_valid": true,
+      "engine_type": "solid_booster",
       "fuel_amount": 49.0,
       "fuel_capacity": 140.0,
       "fuel_mass": 367.4999694824219,
@@ -230,6 +263,14 @@
       "measurement_id": "part-analysis-4083199883d44471a2bc3445fe25b421",
       "recorded_at": "2026-04-25T22:21:44.306078+00:00",
       "run_id": "run-20260425T222144190611Z-2479b33c",
+      "thrust_limit": 1.0
+    },
+    "fuel_36_1__thrust_1": {
+      "baseline_valid": true,
+      "fuel_percent": 36.1000006539481,
+      "measurement_id": "part-analysis-19dd99ba4967434288110f8be46a93f8",
+      "recorded_at": "2026-04-25T23:06:08.466459+00:00",
+      "run_id": "run-20260425T230608363177Z-a169a179",
       "thrust_limit": 1.0
     },
     "fuel_50__thrust_1": {
@@ -617,6 +658,39 @@
       "available_thrust": 163220.453125,
       "baseline_valid": true,
       "engine_type": "solid_booster",
+      "fuel_amount": 50.540000915527344,
+      "fuel_capacity": 140.0,
+      "fuel_mass": 379.0499572753906,
+      "fuel_percent": 36.1000006539481,
+      "fuel_resource_name": "SolidFuel",
+      "max_thrust": 163220.453125,
+      "max_vacuum_thrust": 192000.0,
+      "measurement_id": "part-analysis-19dd99ba4967434288110f8be46a93f8",
+      "measurement_source": "live_kRPC_active_vessel",
+      "model": {
+        "estimated_burn_time": 3.188383728438196,
+        "fuel_mass_fraction": 0.4572100822246499,
+        "gravity": 9.80665,
+        "initial_acceleration": 80.91926017204854,
+        "thrust_to_weight_ratio": 9.251468153961703
+      },
+      "part_dry_mass": 449.9999084472656,
+      "part_key": "solidBooster.sm.v2",
+      "part_mass": 829.0498657226562,
+      "part_name": "solidBooster.sm.v2",
+      "part_title": "RT-5 \"Flea\" Solid Fuel Booster",
+      "recorded_at": "2026-04-25T23:06:08.466459+00:00",
+      "run_id": "run-20260425T230608363177Z-a169a179",
+      "stage": 1,
+      "throttle_locked": true,
+      "thrust_limit": 1.0,
+      "vessel_dry_mass": 1380.0,
+      "vessel_mass": 1799.050048828125
+    },
+    {
+      "available_thrust": 163220.453125,
+      "baseline_valid": true,
+      "engine_type": "solid_booster",
       "fuel_amount": 49.0,
       "fuel_capacity": 140.0,
       "fuel_mass": 367.4999694824219,
@@ -780,17 +854,18 @@
     }
   ],
   "model": {
-    "created_at": "2026-04-25T22:21:44.352722+00:00",
+    "created_at": "2026-04-25T23:06:08.516610+00:00",
     "fixed_thrust_limit": 1.0,
     "input_measurement_ids": [
       "part-analysis-4238765833bd4454bd8b869b2d5dc200",
       "part-analysis-496b7b5dca494aa28b6d8eb80e8f8e7c",
       "part-analysis-4083199883d44471a2bc3445fe25b421",
+      "part-analysis-19dd99ba4967434288110f8be46a93f8",
       "part-analysis-2dc1278896044b4c9e64d41685f79834",
       "part-analysis-6c9a9ea2dfee4e68a5af57acbfbe2a70",
       "part-analysis-9acac26965ff4364b7cc3d656eab78f6"
     ],
-    "input_point_count": 6,
+    "input_point_count": 7,
     "interpolated_fields": [
       "fuel_amount",
       "fuel_mass",
@@ -845,11 +920,12 @@
       100.0,
       75.0,
       50.0,
+      36.1000006539481,
       35.0,
       30.0,
       25.0
     ],
-    "measurement_count": 16,
+    "measurement_count": 17,
     "model_status": "interpolation-ready",
     "part_key": "solidBooster.sm.v2",
     "part_name": "solidBooster.sm.v2",
@@ -857,6 +933,6 @@
     "thrust_limit_values_available": [
       1.0
     ],
-    "updated_at": "2026-04-25T22:21:44.306078+00:00"
+    "updated_at": "2026-04-25T23:06:08.466459+00:00"
   }
 }
