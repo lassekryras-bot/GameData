@@ -1,0 +1,19 @@
+{
+  "actual_peak_altitude": 9831.997799982782,
+  "calibration_factor_used": 0.708203435259311,
+  "error_from_target": -168.00220001721755,
+  "failure_reason": "Peak altitude below target band.",
+  "generated_craft_name": "Contract Runner Mk16 High target 10000 fuel 68.8 thrust 100",
+  "new_calibration_factor": 0.6965021654688723,
+  "plan_id": "target-altitude-plan-20260425T231057052861Z-c10e1e25",
+  "planned_fuel_percent": 68.8,
+  "planned_thrust_limit": 1.0,
+  "predicted_peak_altitude": 9997.17583465429,
+  "prediction_type": "simple_vertical_no_drag",
+  "recorded_at": "2026-04-25T23:11:58.930764+00:00",
+  "result_id": "target-altitude-result-20260425T231158930764Z-00d3b37d",
+  "success": false,
+  "target_altitude": 10000.0,
+  "tolerance": 100.0,
+  "uncalibrated_predicted_peak_altitude": 14116.248717423678
+}
