@@ -35,7 +35,7 @@
       "thrust_limit": 1.0
     }
   ],
-  "generated_at": "2026-04-25T15:33:50.939472+00:00",
+  "generated_at": "2026-04-25T15:37:31.255718+00:00",
   "measurement": {
     "baseline_valid": true,
     "preferred_situation": "pre_launch",
@@ -149,7 +149,7 @@
   "vessel": {
     "dry_mass": 1380.0001220703125,
     "mass": 2470.0,
-    "name": "Contract Runner Mk16 High",
+    "name": "Contract Runner Flea Mk16",
     "situation": "pre_launch",
     "stage": 2,
     "stage_lock": false

@@ -1,6 +1,6 @@
 # Active Vessel Part Analysis
 
-Generated: 2026-04-25T15:33:50.939472+00:00
+Generated: 2026-04-25T15:37:31.255718+00:00
 
 Scene: flight
 
@@ -8,7 +8,7 @@ Stabilization delay: 1.0 s
 
 Baseline valid: True
 
-Vessel: Contract Runner Mk16 High
+Vessel: Contract Runner Flea Mk16
 
 Situation: pre_launch
 
