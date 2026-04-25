@@ -1,28 +1,172 @@
 {
-  "available": false,
-  "generated_at": "2026-04-25T19:58:36.549163+00:00",
+  "available": true,
+  "construction_inventory": {
+    "active_vessel_uses_locked_or_unlisted_parts": false,
+    "source": "parts/unlocked-parts.json via save file",
+    "unlocked_parts": [
+      "GooExperiment",
+      "basicFin",
+      "evaChute",
+      "evaJetpack",
+      "kv1Pod",
+      "mk1pod.v2",
+      "parachuteSingle",
+      "solidBooster.sm.v2",
+      "trussPiece1x"
+    ]
+  },
+  "engines": [
+    {
+      "active": false,
+      "available_thrust": 163220.671875,
+      "can_restart": false,
+      "can_shutdown": false,
+      "has_fuel": true,
+      "max_thrust": 163220.671875,
+      "max_vacuum_thrust": 192000.0,
+      "part_key": "solidBooster.sm.v2",
+      "part_name": "solidBooster.sm.v2",
+      "part_title": "RT-5 \"Flea\" Solid Fuel Booster",
+      "propellant_names": [
+        "SolidFuel"
+      ],
+      "stage": 1,
+      "throttle": 0.0,
+      "throttle_locked": true,
+      "thrust_limit": 1.0
+    }
+  ],
+  "generated_at": "2026-04-25T20:02:16.291706+00:00",
   "measurement": {
-    "baseline_valid": false,
+    "baseline_valid": true,
     "preferred_situation": "pre_launch",
     "scene_required": "Flight",
     "source": "live_kRPC_active_vessel",
     "stabilization_seconds": 1.0,
     "warnings": []
   },
-  "measurement_id": "part-analysis-013012eb0ddc41cbbe8b39792161c6ca",
-  "reason": "No active vessel available from kRPC. Launch/load a craft to the pad first.",
+  "measurement_id": "part-analysis-4745eeba7882434083f8382ba93b1801",
+  "notes": [
+    "This is an active-vessel measurement, not editor craft inspection.",
+    "SRB thrust limiter changes must be live-tested before use."
+  ],
+  "parts": [
+    {
+      "decouple_stage": -1,
+      "dry_mass": 800.0000610351562,
+      "mass": 840.0001220703125,
+      "name": "mk1pod.v2",
+      "part_key": "mk1pod.v2",
+      "resources": [
+        {
+          "amount": 50.0,
+          "fuel_percent": 100.0,
+          "max": 50.0,
+          "name": "ElectricCharge"
+        },
+        {
+          "amount": 10.0,
+          "fuel_percent": 100.0,
+          "max": 10.0,
+          "name": "MonoPropellant"
+        }
+      ],
+      "stage": -1,
+      "title": "Mk1 Command Pod",
+      "unlocked": true
+    },
+    {
+      "decouple_stage": -1,
+      "dry_mass": 100.0,
+      "mass": 100.0,
+      "name": "parachuteSingle",
+      "part_key": "parachuteSingle",
+      "resources": [],
+      "stage": 0,
+      "title": "Mk16 Parachute",
+      "unlocked": true
+    },
+    {
+      "decouple_stage": -1,
+      "dry_mass": 450.00006103515625,
+      "mass": 1500.0,
+      "name": "solidBooster.sm.v2",
+      "part_key": "solidBooster.sm.v2",
+      "resources": [
+        {
+          "amount": 140.0,
+          "fuel_percent": 100.0,
+          "max": 140.0,
+          "name": "SolidFuel"
+        }
+      ],
+      "stage": 1,
+      "title": "RT-5 \"Flea\" Solid Fuel Booster",
+      "unlocked": true
+    },
+    {
+      "decouple_stage": -1,
+      "dry_mass": 10.0,
+      "mass": 10.0,
+      "name": "basicFin",
+      "part_key": "basicFin",
+      "resources": [],
+      "stage": -1,
+      "title": "Basic Fin",
+      "unlocked": true
+    },
+    {
+      "decouple_stage": -1,
+      "dry_mass": 10.0,
+      "mass": 10.0,
+      "name": "basicFin",
+      "part_key": "basicFin",
+      "resources": [],
+      "stage": -1,
+      "title": "Basic Fin",
+      "unlocked": true
+    },
+    {
+      "decouple_stage": -1,
+      "dry_mass": 10.0,
+      "mass": 10.0,
+      "name": "basicFin",
+      "part_key": "basicFin",
+      "resources": [],
+      "stage": -1,
+      "title": "Basic Fin",
+      "unlocked": true
+    }
+  ],
   "recommended_path": "launchpad_preflight_analysis",
-  "run_id": "run-20260425T195836493041Z-cc654cf5",
-  "scene": "space_center",
-  "unlocked_parts": [
-    "GooExperiment",
-    "basicFin",
-    "evaChute",
-    "evaJetpack",
-    "kv1Pod",
-    "mk1pod.v2",
-    "parachuteSingle",
-    "solidBooster.sm.v2",
-    "trussPiece1x"
-  ]
+  "resources": [
+    {
+      "amount": 50.0,
+      "fuel_percent": 100.0,
+      "max": 50.0,
+      "name": "ElectricCharge"
+    },
+    {
+      "amount": 10.0,
+      "fuel_percent": 100.0,
+      "max": 10.0,
+      "name": "MonoPropellant"
+    },
+    {
+      "amount": 140.0,
+      "fuel_percent": 100.0,
+      "max": 140.0,
+      "name": "SolidFuel"
+    }
+  ],
+  "run_id": "run-20260425T200216164477Z-495f0cf7",
+  "scene": "flight",
+  "vessel": {
+    "dry_mass": 1380.0001220703125,
+    "mass": 2470.0,
+    "name": "Contract Runner Mk16 High analysis fuel 100 thrust 100",
+    "situation": "pre_launch",
+    "stage": 2,
+    "stage_lock": false
+  }
 }

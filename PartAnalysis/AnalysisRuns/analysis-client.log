@@ -1,1 +1,51 @@
 [21:58:35] Starting stabilization-aware PartAnalysis export.
+[21:58:40] Wrote 2 file(s).
+[21:58:40]   C:\Users\Lasse\ksp\GameData\PartAnalysis\active-vessel-part-analysis.json
+[21:58:40]   C:\Users\Lasse\ksp\GameData\PartAnalysis\active-vessel-part-analysis.md
+[21:58:40] Git: Committed and pushed to origin/main.
+[21:58:44] Generated 4 fuel variant specs for Contract Runner Mk16 High.
+[21:58:44]   Contract Runner Mk16 High analysis fuel 100 thrust 100: fuel=100%, thrust=100%
+[21:58:44]   Contract Runner Mk16 High analysis fuel 75 thrust 100: fuel=75%, thrust=100%
+[21:58:44]   Contract Runner Mk16 High analysis fuel 50 thrust 100: fuel=50%, thrust=100%
+[21:58:44]   Contract Runner Mk16 High analysis fuel 25 thrust 100: fuel=25%, thrust=100%
+[21:58:48] Batch setup check: Contract Runner Mk16 High
+[21:58:48]   Source path: C:\Program Files (x86)\Steam\steamapps\common\Kerbal Space Program\saves\default\Ships\VAB\Contract Runner Mk16 High.craft
+[21:58:48]   Source exists: True
+[21:58:48]   solidBooster.sm.v2 count: 1
+[21:58:48]   SolidFuel resources: 1
+[21:58:48]   SolidFuel amount/capacity: 140.0 / 140.0
+[21:58:48] Batch setup check: READY
+[21:58:48]   Planned: Contract Runner Mk16 High analysis fuel 100 thrust 100 fuel=100% thrust=100%
+[21:58:48]   Planned: Contract Runner Mk16 High analysis fuel 75 thrust 100 fuel=75% thrust=100%
+[21:58:48]   Planned: Contract Runner Mk16 High analysis fuel 50 thrust 100 fuel=50% thrust=100%
+[21:58:48]   Planned: Contract Runner Mk16 High analysis fuel 25 thrust 100 fuel=25% thrust=100%
+[21:59:02] Batch Variant Analysis start: Contract Runner Mk16 High
+[21:59:02] HOLD: UnboundLocalError: local variable 'message' referenced before assignment
+[21:59:02] Traceback (most recent call last):
+  File "C:\Users\Lasse\ksp\kps-codex-mk1\flight controler\mission_control_client.py", line 976, in _batch_analysis_worker
+    summary = runner.run(craft_name, specs=specs, stop_on_first_failure=True)
+  File "C:\Users\Lasse\ksp\kps-codex-mk1\flight controler\batch_variant_analysis.py", line 107, in run
+    summary = self._summary(specs, notes + [message])
+UnboundLocalError: local variable 'message' referenced before assignment
+[22:01:58] Generated 4 fuel variant specs for Contract Runner Mk16 High.
+[22:01:58]   Contract Runner Mk16 High analysis fuel 100 thrust 100: fuel=100%, thrust=100%
+[22:01:58]   Contract Runner Mk16 High analysis fuel 75 thrust 100: fuel=75%, thrust=100%
+[22:01:58]   Contract Runner Mk16 High analysis fuel 50 thrust 100: fuel=50%, thrust=100%
+[22:01:58]   Contract Runner Mk16 High analysis fuel 25 thrust 100: fuel=25%, thrust=100%
+[22:02:01] Batch setup check: Contract Runner Mk16 High
+[22:02:01]   Source path: C:\Program Files (x86)\Steam\steamapps\common\Kerbal Space Program\saves\default\Ships\VAB\Contract Runner Mk16 High.craft
+[22:02:01]   Source exists: True
+[22:02:01]   solidBooster.sm.v2 count: 1
+[22:02:01]   SolidFuel resources: 1
+[22:02:01]   SolidFuel amount/capacity: 140.0 / 140.0
+[22:02:01] Batch setup check: READY
+[22:02:01]   Planned: Contract Runner Mk16 High analysis fuel 100 thrust 100 fuel=100% thrust=100%
+[22:02:01]   Planned: Contract Runner Mk16 High analysis fuel 75 thrust 100 fuel=75% thrust=100%
+[22:02:01]   Planned: Contract Runner Mk16 High analysis fuel 50 thrust 100 fuel=50% thrust=100%
+[22:02:01]   Planned: Contract Runner Mk16 High analysis fuel 25 thrust 100 fuel=25% thrust=100%
+[22:02:04] Batch Variant Analysis start: Contract Runner Mk16 High
+[22:02:04] Creating generated craft: Contract Runner Mk16 High analysis fuel 100 thrust 100
+[22:02:04] Loading to launchpad: Contract Runner Mk16 High analysis fuel 100 thrust 100
+[22:02:14] Waiting for stabilization.
+[22:02:15] Verifying Flight/pre_launch state.
+[22:02:15] Running analysis.
