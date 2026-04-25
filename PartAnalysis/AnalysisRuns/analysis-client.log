@@ -58,3 +58,12 @@ UnboundLocalError: local variable 'message' referenced before assignment
 [22:02:30] Waiting for stabilization.
 [22:02:32] Verifying Flight/pre_launch state.
 [22:02:32] Running analysis.
+[22:02:36] Extracting point.
+[22:02:36] Analysis wrote 3 file(s).
+[22:02:36] Recovering vessel.
+[22:02:37] Completed: Contract Runner Mk16 High analysis fuel 75 thrust 100
+[22:02:37] Creating generated craft: Contract Runner Mk16 High analysis fuel 50 thrust 100
+[22:02:37] Loading to launchpad: Contract Runner Mk16 High analysis fuel 50 thrust 100
+[22:02:47] Waiting for stabilization.
+[22:02:48] Verifying Flight/pre_launch state.
+[22:02:48] Running analysis.
