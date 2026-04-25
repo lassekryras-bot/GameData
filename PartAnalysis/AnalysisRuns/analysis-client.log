@@ -233,3 +233,5 @@ UnboundLocalError: local variable 'message' referenced before assignment
 [00:20:48] Completed: Contract Runner Mk16 High target 3468 fuel 30 thrust 100 analysis fuel 25 thrust 100
 [00:20:48] Deleting generated craft file: Contract Runner Mk16 High target 3468 fuel 30 thrust 100 analysis fuel 25 thrust 100.craft
 [00:20:48] Batch summary written: C:\Users\Lasse\ksp\GameData\PartAnalysis\AnalysisRuns\batch-20260425T221850073441Z-aa635460.json
+[00:20:50] Git: Committed and pushed to origin/main.
+[00:20:50] Batch Variant Analysis complete: 4 completed, 0 failed.
