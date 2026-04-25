@@ -1,10 +1,10 @@
 # Active Vessel Part Analysis
 
-Generated: 2026-04-25T21:47:34.092369+00:00
+Generated: 2026-04-25T22:19:45.176962+00:00
 
-Run ID: run-20260425T214734005771Z-edcdf7c4
+Run ID: run-20260425T221945115410Z-880daaf1
 
-Measurement ID: part-analysis-496b7b5dca494aa28b6d8eb80e8f8e7c
+Measurement ID: part-analysis-9acac26965ff4364b7cc3d656eab78f6
 
 Scene: flight
 
@@ -12,23 +12,23 @@ Stabilization delay: 1.0 s
 
 Baseline valid: True
 
-Vessel: Contract Runner Mk16 High target 3468 fuel 30 thrust 100
+Vessel: Contract Runner Mk16 High target 3468 fuel 30 thrust 100 analysis fuel 100 thrust 100
 
 Situation: pre_launch
 
-Mass: 1735.0001220703125 kg
+Mass: 2470.0 kg
 
-Dry mass: 1380.0 kg
+Dry mass: 1380.0001220703125 kg
 
 ## Resources
 
 - ElectricCharge: 50.0 / 50.0
 - MonoPropellant: 10.0 / 10.0
-- SolidFuel: 42.0 / 140.0
+- SolidFuel: 140.0 / 140.0
 
 ## Engines
 
-- RT-5 "Flea" Solid Fuel Booster: propellants=SolidFuel, has_fuel=True, throttle_locked=True, thrust_limit=1.0, available_thrust=163220.4375
+- RT-5 "Flea" Solid Fuel Booster: propellants=SolidFuel, has_fuel=True, throttle_locked=True, thrust_limit=1.0, available_thrust=163220.453125
 
 ## Active Parts Not In Unlocked Inventory
 

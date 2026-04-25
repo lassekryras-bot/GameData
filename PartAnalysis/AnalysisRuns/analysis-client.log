@@ -159,3 +159,27 @@ UnboundLocalError: local variable 'message' referenced before assignment
 [22:16:06] Batch summary written: C:\Users\Lasse\ksp\GameData\PartAnalysis\AnalysisRuns\batch-20260425T201450903509Z-b5738920.json
 [22:16:08] Git: Committed and pushed to origin/main.
 [22:16:08] Batch Variant Analysis complete: 4 completed, 0 failed.
+[00:18:50] Generated 4 fuel variant specs for Contract Runner Mk16 High target 3468 fuel 30 thrust 100.
+[00:18:50]   Contract Runner Mk16 High target 3468 fuel 30 thrust 100 analysis fuel 100 thrust 100: fuel=100%, thrust=100%
+[00:18:50]   Contract Runner Mk16 High target 3468 fuel 30 thrust 100 analysis fuel 75 thrust 100: fuel=75%, thrust=100%
+[00:18:50]   Contract Runner Mk16 High target 3468 fuel 30 thrust 100 analysis fuel 50 thrust 100: fuel=50%, thrust=100%
+[00:18:50]   Contract Runner Mk16 High target 3468 fuel 30 thrust 100 analysis fuel 25 thrust 100: fuel=25%, thrust=100%
+[00:19:20] Batch setup check: Contract Runner Mk16 High target 3468 fuel 30 thrust 100
+[00:19:20]   Source path: C:\Program Files (x86)\Steam\steamapps\common\Kerbal Space Program\saves\default\Ships\VAB\Contract Runner Mk16 High target 3468 fuel 30 thrust 100.craft
+[00:19:20]   Source exists: True
+[00:19:20]   solidBooster.sm.v2 count: 1
+[00:19:20]   SolidFuel resources: 1
+[00:19:20]   SolidFuel amount/capacity: 42.0 / 140.0
+[00:19:20] Batch setup check: READY
+[00:19:20]   Planned: Contract Runner Mk16 High target 3468 fuel 30 thrust 100 analysis fuel 100 thrust 100 fuel=100% thrust=100%
+[00:19:20]   Planned: Contract Runner Mk16 High target 3468 fuel 30 thrust 100 analysis fuel 75 thrust 100 fuel=75% thrust=100%
+[00:19:20]   Planned: Contract Runner Mk16 High target 3468 fuel 30 thrust 100 analysis fuel 50 thrust 100 fuel=50% thrust=100%
+[00:19:20]   Planned: Contract Runner Mk16 High target 3468 fuel 30 thrust 100 analysis fuel 25 thrust 100 fuel=25% thrust=100%
+[00:19:25] Batch Variant Analysis start: Contract Runner Mk16 High target 3468 fuel 30 thrust 100
+[00:19:25] Creating generated craft: Contract Runner Mk16 High target 3468 fuel 30 thrust 100 analysis fuel 100 thrust 100
+[00:19:25] Loading to launchpad: Contract Runner Mk16 High target 3468 fuel 30 thrust 100 analysis fuel 100 thrust 100
+[00:19:42] Loaded variant.
+[00:19:42] Waiting for KSP stabilization after load: 1 s.
+[00:19:43] Waiting for PartAnalysis stabilization: 1 s.
+[00:19:44] Verifying Flight/pre_launch state.
+[00:19:44] Running analysis.
