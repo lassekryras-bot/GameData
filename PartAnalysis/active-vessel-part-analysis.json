@@ -1,0 +1,18 @@
+{
+  "available": false,
+  "generated_at": "2026-04-25T15:23:16.346486+00:00",
+  "reason": "No active vessel available from kRPC. Launch/load a craft to the pad first.",
+  "recommended_path": "launchpad_preflight_analysis",
+  "scene": "editor_vab",
+  "unlocked_parts": [
+    "GooExperiment",
+    "basicFin",
+    "evaChute",
+    "evaJetpack",
+    "kv1Pod",
+    "mk1pod.v2",
+    "parachuteSingle",
+    "solidBooster.sm.v2",
+    "trussPiece1x"
+  ]
+}
